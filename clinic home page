@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>clinic</title>
+	<script src="jquery-3.2.1.js"></script>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="index.css">
+		<link rel="stylesheet" href="css/slide-social-buttons.css">
+		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+
+
+</head>
+
+<body>
+<div class="page-header">
+
+
+  <h1>Clinic <small>DR-OSAMA</small></h1> 
+  <ul class="nav nav-pills">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Services</a></li>
+  <li role="presentation"><a href="#">Contact us</a></li>
+  <li role="presentation"><a href="#">TEAM</a></li>
+  <li role="presentation"><a href="file:///F:/f/index2.html?fname=wle&lname=">PATIENT</a></li>
+  <li role="presentation"><a href="#">ACCOUNTS</a></li>
+    <li role="presentation"><a href="#">VISIT</a></li>
+
+
+
+
+</ul> 
+
+</div>
+<div class="jumbotron">
+  <h1>Hello, patient!</h1>
+  <p>We wish you a speedy recovery</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Read more</a></p>
+</div>
+<a href="https://www.facebook.com/osama.maher.14"><img src="img/15.png" height="50px" width="50px"  alt="..." class=""></a>
+<a href="https://www.instagram.com/osama.maher.14/"><img src="img/16.png" height="50px" width="50px;" alt="..." class=""></a>
+<a href=""><img src="img/17.jpg" height="50px" width="50px;" alt="..." class="">
+</a>
+
+
+
+        
+
+
+	<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
